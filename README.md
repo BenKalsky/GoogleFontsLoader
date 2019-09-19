@@ -28,8 +28,6 @@ When using this script, it installs A LOT of ( ~1660 ) fonts. You may have to di
 curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/uninstall.sh | bash
 ```
 
-### Like this? Please follow the authors on Twitter
+### Like this? Please follow me on Dribbble
 
-[Quinton Pike - @quintonpike](https://twitter.com/QuintonPike)
-
-[Peter Stacho - @stacho](https://twitter.com/stacho)
+[Ben Kalsky - @quintonpike](https://dribbble.com/benkalsky)
