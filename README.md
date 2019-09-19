@@ -30,4 +30,4 @@ curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/uninstall.sh 
 
 ### Like this? Please follow me on Dribbble
 
-[Ben Kalsky - @quintonpike](https://dribbble.com/benkalsky)
+[Ben Kalsky](https://dribbble.com/benkalsky)
